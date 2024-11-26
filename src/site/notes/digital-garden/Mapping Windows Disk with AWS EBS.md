@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/digital-garden/mapping-windows-disk-with-aws-ebs/","tags":["digital-garden","seedling"],"created":"2023-01-30T09:48:00","updated":"2024-11-26T17:37"}
 ---
 
-[[AWS\|AWS]] - [[Powershell\|Powershell]]
+[[digital-garden/AWS\|AWS]] - [[Powershell\|Powershell]]
 # Mapping Windows Disk with AWS EBS
 
 ## List NVMe disks

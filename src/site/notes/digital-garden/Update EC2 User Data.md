@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/digital-garden/update-ec-2-user-data/","tags":["digital-garden","seedling"],"created":"2023-05-10","updated":"2024-11-26T17:39"}
 ---
 
-[[AWS\|AWS]]
+[[digital-garden/AWS\|AWS]]
 
 ---
 # Update EC2 User Data
