@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/","tags":["#digital-garden"],"created":"2023-02-01T15:50:22.959+01:00","updated":"2024-11-26T14:48:21.600+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/","tags":["#digital-garden","#seedling"],"created":"2023-02-01T15:50:00","updated":"2024-11-26T15:01"}
 ---
 
 [[Other\|Other]]
@@ -25,7 +25,7 @@
 - Publishing Obsidian notes: 
 	- https://github.com/maximevaillancourt/digital-garden-jekyll-template
 	- https://refinedmind.co/obsidian-jekyll-workflow
-
+	
 ---
 - https://maggieappleton.com/garden-history
 - https://publish.obsidian.md/bryan-jenks/Tag+Taxonomy
