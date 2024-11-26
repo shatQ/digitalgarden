@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/digital-garden/setting-up-vim-for-yaml-editing/","tags":["digital-garden","seedling"],"created":"2023-02-02T11:50:00","updated":"2024-11-26T17:39"}
 ---
 
-[[Vim\|Vim]]
+[[digital-garden/Vim\|Vim]]
 # Setting Up VIM for Yaml Editing
 
 ```plain

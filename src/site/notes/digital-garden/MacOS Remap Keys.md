@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/digital-garden/mac-os-remap-keys/","tags":["digital-garden","seedling"],"created":"2023-01-30T09:48:00","updated":"2024-11-26T17:35"}
 ---
 
-[[MacOS\|MacOS]]
+[[digital-garden/MacOS\|MacOS]]
 # MacOS Remap Keys
 
 Re-map right hand `Command` and `Option` keys:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/github-actions-diff-directory/","tags":["digital-garden","seedling"],"created":"2023-02-20T09:50","updated":"2024-11-26T17:25"}
+{"dg-publish":true,"permalink":"/digital-garden/github-actions-diff-directory/","tags":["digital-garden","seedling"],"created":"2023-02-20T09:50","updated":"2024-11-26T17:34"}
 ---
 
 [[Github\|Github]] 
@@ -7,7 +7,7 @@
 
 Example github action that triggers a job when change in a folder is detected:
 
-```
+```yaml
 name: Validate terraform and check terraform file formatting
 
 on: [pull_request]

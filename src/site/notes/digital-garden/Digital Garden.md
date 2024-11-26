@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/digital-garden/digital-garden/","tags":["digital-garden","seedling"],"created":"2023-02-01T15:50:00","updated":"2024-11-26T15:01"}
 ---
 
-[[Other\|Other]]
+[[digital-garden/Other\|Other]]
 # Digital Garden
 
 - Example categories:
