@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/","tags":["#digital-garden","🌱"],"created":"2023-02-01T15:50:22.959+01:00","updated":"2024-11-26T14:35:02.426+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/","tags":["#digital-garden"],"created":"2023-02-01T15:50:22.959+01:00","updated":"2024-11-26T14:48:21.600+01:00"}
 ---
 
 [[Other\|Other]]
