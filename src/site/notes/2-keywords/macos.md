@@ -4,6 +4,6 @@
 
 # macos
 
-- [[3-notes/MacOS Git Push Error\|MacOS Git Push Error]]
+- [[3-abc/MacOS Git Push Error\|MacOS Git Push Error]]
 
 { .block-language-dataview}
