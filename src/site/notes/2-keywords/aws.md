@@ -3,6 +3,6 @@
 ---
 
 # aws
-- [[3-notes/Mapping Windows Disk with AWS EBS\|Mapping Windows Disk with AWS EBS]]
+- [[3-garden/Mapping Windows Disk with AWS EBS\|Mapping Windows Disk with AWS EBS]]
 
 { .block-language-dataview}
