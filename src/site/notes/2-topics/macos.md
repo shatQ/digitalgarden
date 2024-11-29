@@ -4,10 +4,10 @@
 
 # macos
 
-| File                                                       |
-| ---------------------------------------------------------- |
-| [[3-garden/MacOS Git Push Error\|MacOS Git Push Error]] |
-| [[3-garden/MacOS Remap Keys\|MacOS Remap Keys]]         |
+| File                                                      |
+| --------------------------------------------------------- |
+| [[3-notes/MacOS Git Push Error\|MacOS Git Push Error]] |
+| [[3-notes/MacOS Remap Keys\|MacOS Remap Keys]]         |
 
 { .block-language-dataview}
 

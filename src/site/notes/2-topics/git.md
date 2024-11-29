@@ -4,9 +4,9 @@
 
 # git
 
-| File                                                                 |
-| -------------------------------------------------------------------- |
-| [[3-garden/MacOS Git Push Error\|MacOS Git Push Error]]           |
-| [[3-garden/Setup Dynamic Git Configs\|Setup Dynamic Git Configs]] |
+| File                                                                |
+| ------------------------------------------------------------------- |
+| [[3-notes/MacOS Git Push Error\|MacOS Git Push Error]]           |
+| [[3-notes/Setup Dynamic Git Configs\|Setup Dynamic Git Configs]] |
 
 { .block-language-dataview}

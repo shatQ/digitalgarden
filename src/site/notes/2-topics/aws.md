@@ -4,9 +4,9 @@
 
 # aws
 
-| File                                                                                 |
-| ------------------------------------------------------------------------------------ |
-| [[3-garden/Mapping Windows Disk with AWS EBS\|Mapping Windows Disk with AWS EBS]] |
-| [[3-garden/Update EC2 User Data\|Update EC2 User Data]]                           |
+| File                                                                                |
+| ----------------------------------------------------------------------------------- |
+| [[3-notes/Mapping Windows Disk with AWS EBS\|Mapping Windows Disk with AWS EBS]] |
+| [[3-notes/Update EC2 User Data\|Update EC2 User Data]]                           |
 
 { .block-language-dataview}
