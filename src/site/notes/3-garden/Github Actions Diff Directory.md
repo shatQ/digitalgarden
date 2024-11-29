@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3-garden/github-actions-diff-directory/","tags":["seedling"],"created":"2023-02-20T09:50","updated":"2024-11-27T21:22"}
+{"dg-publish":true,"permalink":"/3-garden/github-actions-diff-directory/","tags":["note","seedling","public"],"created":"2023-02-20T09:50","updated":"2024-11-28T20:19"}
 ---
 
+[[2-topics/github\|github]]
 # Github Actions Diff Directory
 
 Example github action that triggers a job when change in a folder is detected:

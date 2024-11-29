@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-garden/update-ec-2-user-data/","tags":["seedling"],"created":"2023-05-10","updated":"2024-11-27T21:26"}
+{"dg-publish":true,"permalink":"/3-garden/update-ec-2-user-data/","tags":["note","seedling","public"],"created":"2023-05-10","updated":"2024-11-29T09:21"}
 ---
 
 # Update EC2 User Data

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-garden/digital-garden/","tags":["seedling"],"created":"2023-02-01T15:50:00","updated":"2024-11-27T21:20"}
+{"dg-publish":true,"permalink":"/3-garden/digital-garden/","tags":["note","seedling","public"],"created":"2023-02-01T15:50:00","updated":"2024-11-28T20:19"}
 ---
 
 # Digital Garden

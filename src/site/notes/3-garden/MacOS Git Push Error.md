@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3-garden/mac-os-git-push-error/","tags":["seedling"],"created":"2023-01-30T09:48:00","updated":"2024-11-27T21:36"}
+{"dg-publish":true,"permalink":"/3-garden/mac-os-git-push-error/","tags":["note","seedling","public"],"created":"2023-01-30T09:48:00","updated":"2024-11-28T20:19"}
 ---
 
-[[2-keywords/macos\|macos]] - [[2-keywords/git\|git]]
+[[2-topics/macos\|macos]] - [[2-topics/git\|git]]
 # MacOS Git Push Error
 
 ```bash

@@ -1,46 +1,46 @@
 ---
-{"dg-publish":true,"permalink":"/1-mocs/kubernetes-moc/","tags":["moc"],"created":"2024-11-28T10:21","updated":"2024-11-28T11:20"}
+{"dg-publish":true,"permalink":"/1-mocs/kubernetes-moc/","tags":["moc"],"created":"2024-11-28T10:21","updated":"2024-11-28T21:17"}
 ---
 
 # Kubernetes MOC
 
 ## Architecture
 
-- [[kubernetesOLD/Etcd\|Etcd]] - It is a strongly consistent, distributed key-value store that stores information about the cluster.
-- [[kubernetesOLD/Kube-scheduler\|Kube-scheduler]] - Responsible for scheduling application containers on worker nodes
-- [[kubernetesOLD/Kube-controller-manager\|Kube-controller-manager]] - Take care of different cluster functions, e.g. node controller, replication controller, etc.
-- [[kubernetesOLD/Kube-apiserver\|Kube-apiserver]] - Responsible for orchestrating all operations within the cluster.
-- [[kubernetesOLD/Kubelet\|Kubelet]] - Listens for instructions from kube-apiserver and manages containers.
-- [[kubernetesOLD/Kube-proxy\|Kube-proxy]] - Helps enabling communication between services within the cluster.
-- [[kubernetesOLD/Container Runtimes\|Container Runtimes]]
-- [[kubernetesOLD/Kubernetes API\|Kubernetes API]]
-- [[kubernetesOLD/Static Pods\|Static Pods]]
-- [[kubernetesOLD/Init Containers\|Init Containers]]
+- [[3-garden/Etcd\|Etcd]] - It is a strongly consistent, distributed key-value store that stores information about the cluster.
+- [[3-garden/Kube-scheduler\|Kube-scheduler]] - Responsible for scheduling application containers on worker nodes
+- [[3-garden/Kube-controller-manager\|Kube-controller-manager]] - Take care of different cluster functions, e.g. node controller, replication controller, etc.
+- [[3-garden/Kube-apiserver\|Kube-apiserver]] - Responsible for orchestrating all operations within the cluster.
+- [[3-garden/Kubelet\|Kubelet]] - Listens for instructions from kube-apiserver and manages containers.
+- [[3-garden/Kube-proxy\|Kube-proxy]] - Helps enabling communication between services within the cluster.
+- [[3-garden/Container Runtimes\|Container Runtimes]]
+- [[3-garden/Kubernetes API\|Kubernetes API]]
+- [[3-garden/Static Pods\|Static Pods]]
+- [[3-garden/Init Containers\|Init Containers]]
 ## Security
 
-- [[kubernetesOLD/RBAC\|RBAC]]
-- [[kubernetesOLD/ServiceAccounts\|ServiceAccounts]]
+- [[3-garden/RBAC\|RBAC]]
+- [[3-garden/ServiceAccounts\|ServiceAccounts]]
 ## Network
 
-- [[kubernetesOLD/DNS\|DNS]]
-- [[kubernetesOLD/Ingress\|Ingress]]
-- [[kubernetesOLD/Network Policies\|Network Policies]]
-- [[kubernetesOLD/Services\|Services]]
+- [[3-garden/DNS\|DNS]]
+- [[3-garden/Ingress\|Ingress]]
+- [[3-garden/Network Policies\|Network Policies]]
+- [[3-garden/Services\|Services]]
 ## Scheduling
 
-- [[kubernetesOLD/Node Affinity\|Node Affinity]]
-- [[kubernetesOLD/Node Selector\|Node Selector]]
-- [[kubernetesOLD/Node Name\|Node Name]]
-- [[kubernetesOLD/Taints and Tolerations\|Taints and Tolerations]]
+- [[3-garden/Node Affinity\|Node Affinity]]
+- [[3-garden/Node Selector\|Node Selector]]
+- [[3-garden/Node Name\|Node Name]]
+- [[3-garden/Taints and Tolerations\|Taints and Tolerations]]
 ## Maintenance
 
-- [[kubernetesOLD/Cluster Upgrades\|Cluster Upgrades]]
+- [[3-garden/Cluster Upgrades\|Cluster Upgrades]]
 - [[3-garden/Backup and Restore\|Backup and Restore]]
 ## Tools
 
-- [[kubernetesOLD/kubectl-cheatsheet\|kubectl-cheatsheet]]
-- [[kubernetesOLD/Kubectx and Kubens\|Kubectx and Kubens]]
-- [[kubernetesOLD/Install kubectl Convert Plugin\|Install kubectl Convert Plugin]]
+- [[3-garden/kubectl-cheatsheet\|kubectl-cheatsheet]]
+- [[3-garden/Kubectx and Kubens\|Kubectx and Kubens]]
+- [[3-garden/Kubectl Convert Plugin\|Kubectl Convert Plugin]]
 ## Other
 
--  [[kubernetesOLD/CKAD Simulator Kubernetes 1.26\|CKAD Simulator Kubernetes 1.26]]
+-  [[3-garden/CKAD Simulator Kubernetes 1.26\|CKAD Simulator Kubernetes 1.26]]

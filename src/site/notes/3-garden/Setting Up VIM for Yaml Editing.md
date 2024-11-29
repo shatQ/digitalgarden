@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-garden/setting-up-vim-for-yaml-editing/","tags":["seedling"],"created":"2023-02-02T11:50:00","updated":"2024-11-27T21:22"}
+{"dg-publish":true,"permalink":"/3-garden/setting-up-vim-for-yaml-editing/","tags":["note","seedling","public"],"created":"2023-02-02T11:50:00","updated":"2024-11-28T20:19"}
 ---
 
 # Setting Up VIM for Yaml Editing

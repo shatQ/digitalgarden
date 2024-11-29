@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3-garden/mac-os-remap-keys/","tags":["seedling"],"created":"2023-01-30T09:48:00","updated":"2024-11-27T21:22"}
+{"dg-publish":true,"permalink":"/3-garden/mac-os-remap-keys/","tags":["note","seedling","public"],"created":"2023-01-30T09:48:00","updated":"2024-11-28T20:19"}
 ---
 
+[[2-topics/macos\|macos]]
 # MacOS Remap Keys
 
 Re-map right hand `Command` and `Option` keys:

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3-garden/backup-and-restore/","tags":["seedling"],"created":"2023-06-16","updated":"2024-11-28T11:21"}
+{"dg-publish":true,"permalink":"/3-garden/backup-and-restore/","tags":["note","seedling","public"],"created":"2023-06-16","updated":"2024-11-28T20:19"}
 ---
 
-[[2-keywords/kubernetes\|kubernetes]]
+[[2-topics/k8s\|k8s]]
 # Backup and Restore
 
 ## Backing up an etcd cluster

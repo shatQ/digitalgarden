@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3-garden/setup-dynamic-git-configs/","tags":["seedling"],"created":"2023-02-16","updated":"2024-11-27T21:23"}
+{"dg-publish":true,"permalink":"/3-garden/setup-dynamic-git-configs/","tags":["note","seedling","public"],"created":"2023-02-16","updated":"2024-11-28T20:19"}
 ---
 
+[[2-topics/git\|git]]
 # Setup Dynamic Git Configs
 
 To setup git config that depends on the work folder, firstly edit  `~/.gitconfig` and replace it's content with:

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3-garden/mapping-windows-disk-with-aws-ebs/","tags":["seedling"],"created":"2023-01-30T09:48:00","updated":"2024-11-27T21:40"}
+{"dg-publish":true,"permalink":"/3-garden/mapping-windows-disk-with-aws-ebs/","tags":["note","seedling","public"],"created":"2023-01-30T09:48:00","updated":"2024-11-28T20:19"}
 ---
 
-[[2-keywords/aws\|aws]] 
+[[2-topics/aws\|aws]] 
 # Mapping Windows Disk with AWS EBS
 
 ## List NVMe disks
