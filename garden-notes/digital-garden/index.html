@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<title>Welcome</title>
+<title>Digital Garden</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <script async type="module">import mermaid from"https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs"</script>
 <script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js" integrity="sha512-hpZ5pDCF2bRCweL5WoA0/N1elet1KYL5mx3LP555Eg/0ZguaHawxNvEjF6O3rufAChs16HVNhEc6blF/rZoowQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
@@ -73,7 +73,7 @@ CTRL + K
 <span class="foldername">Garden Notes</span>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
-<div @click.stop class="notelink active-note"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/">Welcome </a>
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/">Welcome </a>
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
@@ -93,7 +93,7 @@ CTRL + K
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
-<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/garden-notes/digital-garden/">Digital Garden </a>
+<div @click.stop class="notelink active-note"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/garden-notes/digital-garden/">Digital Garden </a>
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
@@ -291,10 +291,52 @@ CTRL + K
 <main class="content cm-s-obsidian">
 <header>
 <div class="header-meta">
-</div>
+<div class="timestamps"><div><i icon-name="calendar-plus"></i> <span class="human-date" data-date="2023-02-01T15:50:00"></span></div><div><i icon-name="calendar-clock"></i> <span class="human-date" data-date="2024-11-29T14:50"></span></div></div></div>
 </header>
-<h1 id="welcome" tabindex="-1">Welcome</h1>
-<p>Test</p>
+<h1 id="digital-garden" tabindex="-1">Digital Garden</h1>
+<ul>
+<li>
+<p>Example categories:</p>
+<ul>
+<li>🌱 <em>Seedling</em> for very rough and early ideas</li>
+<li>🌿 <em>Budding</em> for work I've cleaned up and clarified</li>
+<li>🌳 <em>Evergreen</em> for work that is reasonably complete (though I still tend these over time).</li>
+</ul>
+</li>
+<li>
+<p>Zettelkasten</p>
+<ul>
+<li>Fleeting Notes - Used for catching fresh ideas.</li>
+<li>Literature Notes - Notes created in context of a source, e.g. while reading book. It's good if they contain information like the book title, author, chapter, and page number.</li>
+<li>Permanent Notes - Stand alone ideas that can be made without any direct context</li>
+</ul>
+</li>
+<li>
+<p>Other category system <a href="https://gwern.net/about#confidence-tags" target="_blank" class="external-link">https://gwern.net/about#confidence-tags</a></p>
+<ul>
+<li>topic tags</li>
+<li>start and end date</li>
+<li>stage tag: <em>draft</em>, <em>in progress</em>, or <em>finished</em></li>
+<li>certainty tag: <em>impossible</em>, <em>unlikely</em>, <em>certain</em>, etc.</li>
+<li>1-10 importance tag</li>
+</ul>
+</li>
+<li>
+<p>Publishing Obsidian notes:</p>
+<ul>
+<li><a href="https://github.com/maximevaillancourt/digital-garden-jekyll-template" target="_blank" class="external-link">https://github.com/maximevaillancourt/digital-garden-jekyll-template</a></li>
+<li><a href="https://refinedmind.co/obsidian-jekyll-workflow" target="_blank" class="external-link">https://refinedmind.co/obsidian-jekyll-workflow</a></li>
+</ul>
+</li>
+</ul>
+<hr>
+<ul>
+<li><a href="https://maggieappleton.com/garden-history" target="_blank" class="external-link">https://maggieappleton.com/garden-history</a></li>
+<li><a href="https://publish.obsidian.md/bryan-jenks/Tag+Taxonomy" target="_blank" class="external-link">https://publish.obsidian.md/bryan-jenks/Tag+Taxonomy</a></li>
+<li><a href="https://zenkit.com/en/blog/a-beginners-guide-to-the-zettelkasten-method/" target="_blank" class="external-link">https://zenkit.com/en/blog/a-beginners-guide-to-the-zettelkasten-method/</a></li>
+<li><a href="https://haikal.blog/my-zettelkasten-journey-understanding-the-differences-between-fleeting-notes-literature-notes-reference-notes-and-permanent-notes/" target="_blank" class="external-link">https://haikal.blog/my-zettelkasten-journey-understanding-the-differences-between-fleeting-notes-literature-notes-reference-notes-and-permanent-notes/</a></li>
+<li><a href="https://tony.alves.dev/" target="_blank" class="external-link">https://tony.alves.dev/</a></li>
+</ul>
 </main>
 <aside>
 <div class="sidebar">
@@ -336,7 +378,7 @@ On this page
 <div class="toc-container">
 <nav class="toc">
 <ol>
-<li><a href="#welcome">Welcome</a>
+<li><a href="#digital-garden">Digital Garden</a>
 </li>
 </ol>
 </nav>
@@ -359,6 +401,9 @@ On this page
 <iframe style="display:none;height:0;width:0" id="link-preview-iframe" src="">
 </iframe>
 <script>var opacityTimeout,contentTimeout,transitionDurationMs=100,iframe=document.getElementById("link-preview-iframe"),tooltipWrapper=document.getElementById("tooltip-wrapper"),tooltipContent=document.getElementById("tooltip-content"),linkHistories={};function hideTooltip(){opacityTimeout=setTimeout((function(){tooltipWrapper.style.opacity=0,contentTimeout=setTimeout((function(){tooltipContent.innerHTML="",tooltipWrapper.style.display="none"}),transitionDurationMs+1)}),transitionDurationMs)}function showTooltip(t){var e=t.target,o=e.getClientRects()[e.getClientRects().length-1],i=window.pageYOffset||document.documentElement.scrollTop,n=t.target.getAttribute("href");if(-1===n.indexOf("http")||-1!==n.indexOf(window.location.host)){let t=n.split("#")[0];linkHistories[t]?(tooltipContent.innerHTML=linkHistories[t],tooltipWrapper.style.display="block",setTimeout((function(){if(tooltipWrapper.style.opacity=1,-1!=n.indexOf("#")){let t=n.split("#")[1];const e=tooltipWrapper.querySelector(`[id='${t}']`);e.classList.add("referred"),e.scrollIntoView({behavior:"smooth"},!0)}else tooltipWrapper.scroll(0,0)}),1)):(iframe.src=t,iframe.onload=function(){tooltipContentHtml="",tooltipContentHtml+='<div style="font-weight: bold; unicode-bidi: plaintext;">'+iframe.contentWindow.document.querySelector("h1").innerHTML+"</div>",tooltipContentHtml+=iframe.contentWindow.document.querySelector(".content").innerHTML,tooltipContent.innerHTML=tooltipContentHtml,linkHistories[t]=tooltipContentHtml,tooltipWrapper.style.display="block",tooltipWrapper.scrollTop=0,setTimeout((function(){if(tooltipWrapper.style.opacity=1,-1!=n.indexOf("#")){let t=n.split("#")[1];const e=tooltipWrapper.querySelector(`[id='${t}']`);e.classList.add("referred"),console.log(e),e.scrollIntoView({behavior:"smooth"},!0)}else tooltipWrapper.scroll(0,0)}),1)}),tooltipWrapper.style.left=o.left-tooltipWrapper.offsetWidth/2+o.width/2+"px",window.innerHeight-o.top<tooltipWrapper.offsetHeight?tooltipWrapper.style.top=o.top+i-tooltipWrapper.offsetHeight-10+"px":window.innerHeight-o.top>tooltipWrapper.offsetHeight&&(tooltipWrapper.style.top=o.top+i+35+"px"),o.left+o.width/2<tooltipWrapper.offsetWidth/2?tooltipWrapper.style.left="10px":document.body.clientWidth-o.left-o.width/2<tooltipWrapper.offsetWidth/2&&(tooltipWrapper.style.left=document.body.clientWidth-tooltipWrapper.offsetWidth-20+"px")}}function setupListeners(t){t.addEventListener("mouseleave",(function(t){hideTooltip()})),tooltipWrapper.addEventListener("mouseleave",(function(t){hideTooltip()})),t.addEventListener("mouseenter",(function(t){clearTimeout(opacityTimeout),clearTimeout(contentTimeout),showTooltip(t)})),tooltipWrapper.addEventListener("mouseenter",(function(t){clearTimeout(opacityTimeout),clearTimeout(contentTimeout)}))}window.addEventListener("load",(function(t){document.querySelectorAll(".internal-link").forEach(setupListeners),document.querySelectorAll(".backlink-card a").forEach(setupListeners)}))</script>
+<script>window.location.hash&&document.getElementById(window.location.hash.slice(1)).classList.add("referred"),window.addEventListener("hashchange",(e=>{const t=e.oldURL.split("#");t[1]&&document.getElementById(t[1]).classList.remove("referred");const n=e.newURL.split("#");n[1]&&document.getElementById(n[1]).classList.add("referred")}),!1);const url_parts=window.location.href.split("#"),url=url_parts[0],referrence=url_parts[1];document.querySelectorAll(".cm-s-obsidian > *[id]").forEach((function(e){e.ondblclick=function(e){const t=url+"#"+e.target.id;navigator.clipboard.writeText(t)}}))</script>
+<script src="https://fastly.jsdelivr.net/npm/luxon@3.2.1/build/global/luxon.min.js"></script>
+<script defer="defer">TIMESTAMP_FORMAT="MMM dd, yyyy h:mm a",document.querySelectorAll(".human-date").forEach((function(e){date=e.getAttribute("data-date")||e.innerText,parsed_date=luxon.DateTime.fromISO(date),null!=parsed_date.invalid&&(parsed_date=luxon.DateTime.fromSQL(date)),null!=parsed_date.invalid&&(parsed_date=luxon.DateTime.fromHTML(date)),e.innerHTML=parsed_date.toFormat(TIMESTAMP_FORMAT)}))</script>
 <script>lucide.createIcons({attrs:{class:["svg-icon"]}})</script>
 </body>
 </html>
